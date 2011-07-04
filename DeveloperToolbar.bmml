@@ -251,7 +251,7 @@
             </control>
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
               <controlProperties>
-                <src>./highlighter/google.png</src>
+                <src>./google.png</src>
                 <text/>
               </controlProperties>
             </control>
@@ -277,7 +277,7 @@
                 <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                 <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                   <controlProperties>
-                    <src>./highlighter/browser-icons.gif</src>
+                    <src>./browser-icons.gif</src>
                     <text/>
                   </controlProperties>
                 </control>
@@ -607,7 +607,7 @@
                     </control>
                     <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
                       <controlProperties>
-                        <src>./highlighter/google.png</src>
+                        <src>./google.png</src>
                         <text/>
                       </controlProperties>
                     </control>
@@ -632,7 +632,7 @@
                         <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                         <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                           <controlProperties>
-                            <src>./highlighter/browser-icons.gif</src>
+                            <src>./browser-icons.gif</src>
                             <text/>
                           </controlProperties>
                         </control>
@@ -917,7 +917,7 @@
         </control>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="299">
           <controlProperties>
-            <src>./highlighter/google.png</src>
+            <src>./google.png</src>
             <text/>
           </controlProperties>
         </control>
@@ -942,7 +942,7 @@
             <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
             <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
               <controlProperties>
-                <src>./highlighter/browser-icons.gif</src>
+                <src>./browser-icons.gif</src>
                 <text/>
               </controlProperties>
             </control>
@@ -1225,7 +1225,7 @@
                     </control>
                     <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
                       <controlProperties>
-                        <src>./highlighter/google.png</src>
+                        <src>./google.png</src>
                         <text/>
                       </controlProperties>
                     </control>
@@ -1250,7 +1250,7 @@
                         <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                         <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                           <controlProperties>
-                            <src>./highlighter/browser-icons.gif</src>
+                            <src>./browser-icons.gif</src>
                             <text/>
                           </controlProperties>
                         </control>
@@ -1516,7 +1516,7 @@
                         </control>
                         <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
                           <controlProperties>
-                            <src>./highlighter/google.png</src>
+                            <src>./google.png</src>
                             <text/>
                           </controlProperties>
                         </control>
@@ -1541,7 +1541,7 @@
                             <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                             <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                               <controlProperties>
-                                <src>./highlighter/browser-icons.gif</src>
+                                <src>./browser-icons.gif</src>
                                 <text/>
                               </controlProperties>
                             </control>
@@ -1753,7 +1753,7 @@
                         </control>
                         <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
                           <controlProperties>
-                            <src>./highlighter/google.png</src>
+                            <src>./google.png</src>
                             <text/>
                           </controlProperties>
                         </control>
@@ -1778,7 +1778,7 @@
                             <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                             <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                               <controlProperties>
-                                <src>./highlighter/browser-icons.gif</src>
+                                <src>./browser-icons.gif</src>
                                 <text/>
                               </controlProperties>
                             </control>
@@ -2358,7 +2358,7 @@
             </control>
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
               <controlProperties>
-                <src>./highlighter/google.png</src>
+                <src>./google.png</src>
                 <text/>
               </controlProperties>
             </control>
@@ -2384,7 +2384,7 @@
                 <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                 <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                   <controlProperties>
-                    <src>./highlighter/browser-icons.gif</src>
+                    <src>./browser-icons.gif</src>
                     <text/>
                   </controlProperties>
                 </control>
@@ -2458,7 +2458,7 @@
             </control>
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
               <controlProperties>
-                <src>./highlighter/google.png</src>
+                <src>./google.png</src>
                 <text/>
               </controlProperties>
             </control>
@@ -2484,7 +2484,7 @@
                 <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                 <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                   <controlProperties>
-                    <src>./highlighter/browser-icons.gif</src>
+                    <src>./browser-icons.gif</src>
                     <text/>
                   </controlProperties>
                 </control>

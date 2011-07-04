@@ -28,7 +28,7 @@
                     </control>
                     <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="10" y="82" w="899" h="389" measuredW="920" measuredH="389" zOrder="1" locked="false" isInGroup="0">
                       <controlProperties>
-                        <src>./highlighter/google.png</src>
+                        <src>./google.png</src>
                         <text/>
                       </controlProperties>
                     </control>
@@ -53,7 +53,7 @@
                         <control controlID="3" controlTypeID="com.balsamiq.mockups::SearchBox" x="778" y="38" w="125" h="-1" measuredW="65" measuredH="25" zOrder="3" locked="false" isInGroup="2"/>
                         <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="0" y="26" w="-1" h="-1" measuredW="139" measuredH="47" zOrder="4" locked="false" isInGroup="2">
                           <controlProperties>
-                            <src>./highlighter/browser-icons.gif</src>
+                            <src>./browser-icons.gif</src>
                             <text/>
                           </controlProperties>
                         </control>
@@ -120,7 +120,7 @@
             <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="0" y="29" w="652" h="140" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="1">
               <controlProperties>
                 <borderStyle>none</borderStyle>
-                <text>DOM%20Inspector%20+%20HTML%20Editor</text>
+                <text>HTML%20Panel%20+%20HTML%20Editor</text>
               </controlProperties>
             </control>
             <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="920" h="32" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="1"/>
