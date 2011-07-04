@@ -1,0 +1,187 @@
+<mockup version="1.0" skin="sketch" measuredW="1697" measuredH="762" mockupW="1694" mockupH="762">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="3" y="0" w="1694" h="762" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>square</borderStyle>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="33" y="23" w="920" h="-1" measuredW="524" measuredH="62" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Scratchpad%20%26%20Style%20Editor</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="__group__" x="1100" y="643" w="580" h="41" measuredW="580" measuredH="41" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="580" h="41" measuredW="580" measuredH="41" zOrder="0" locked="false" isInGroup="4">
+          <groupChildrenDescriptors>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="130" y="0" w="450" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="0"/>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="36" w="580" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="0"/>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="238" y="6" w="327" h="28" measuredW="327" measuredH="28" zOrder="1" locked="false" isInGroup="4">
+          <groupChildrenDescriptors>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="303" y="3" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <icon>GearIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="13" controlTypeID="__group__" x="197" y="0" w="98" h="28" measuredW="98" measuredH="28" zOrder="1" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="98" h="28" measuredW="95" measuredH="28" zOrder="0" locked="false" isInGroup="13">
+                  <controlProperties>
+                    <state>up</state>
+                    <text>%20%20Inspector</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="4" y="6" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="13">
+                  <controlProperties>
+                    <icon>GeoLocationIcon%7Cxsmall</icon>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="-1" h="-1" measuredW="92" measuredH="28" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <state>selected</state>
+                <text>scratchpad</text>
+              </controlProperties>
+            </control>
+            <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="98" y="0" w="-1" h="-1" measuredW="95" measuredH="28" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>StyleEditor</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="1089" y="264" w="363" h="385" measuredW="363" measuredH="385" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="363" h="385" measuredW="363" measuredH="385" zOrder="0" locked="false" isInGroup="6">
+          <groupChildrenDescriptors>
+            <control controlID="7" controlTypeID="__group__" x="0" y="0" w="363" h="358" measuredW="363" measuredH="358" zOrder="1" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="__group__" x="0" y="0" w="363" h="358" measuredW="363" measuredH="358" zOrder="0" locked="false" isInGroup="7">
+                  <groupChildrenDescriptors>
+                    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="363" h="358" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+                  </groupChildrenDescriptors>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="273" y="327" w="39" h="58" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <shape>diamond</shape>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::RoundButton" x="277" y="348" w="32" h="11" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>16777215</borderColor>
+                <shape>rectangle</shape>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="357" h="26" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <close>true</close>
+            <maximizeRestore>false</maximizeRestore>
+            <text>JS%20Scratchpad</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::MenuBar" x="5" y="26" w="352" h="23" measuredW="339" measuredH="29" zOrder="2" locked="false" isInGroup="6">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <selectedIndex>2</selectedIndex>
+            <text>File%2C%20Edit%2C%20Execute%2C%20Environment%2C%20Tools</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::TextArea" x="10" y="49" w="342" h="299" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="6">
+          <controlProperties>
+            <text>window.indexedDB%20%3D%20window.moz_indexedDB%3B%0A%20%0A%21function%20%28container%29%20%7B%0A%20%20function%20log%28msg%29%20%7B%20dump%28%22database.js%3A%20%22%20+%20msg%20+%20%22%5Cn%22%29%20%7D%3B%0A%20%20var%20db%3B%0A%20%0A%20%20var%20req%20%3D%20window.indexedDB.open%28%22news%22%2C%20%22news%20messages%22%29%3B%0A%20%20req.onsuccess%20%3D%20function%28event%29%20%7B%0A%20%20%20%20db%20%3D%20event.result%3B%0A%20%20%20%20if%20%28db.version%20%21%3D%20%221%22%29%20%7B%0A%20%20%20%20%20%20var%20req%20%3D%20db.createObjectStore%28%22groups%22%2C%20%22name%22%2C%20false%29%3B%0A%20%20%20%20%20%20req.onsuccess%20%3D%20function%28event%29%20%7B%0A%20%20%20%20%20%20%20%20db.setVersion%28%271%27%29.onsuccess%20%3D%20function%28event%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20log%28%22DB%20%26%20store%20created%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20ready%28%29%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20req.onerror%20%3D%20function%28%29%20%7B%0A%20%20%20%20%20%20%20%20log%28%22Error%20while%20createObjectStore%22%29%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20ready%28%29%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="319" y="5" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="4" locked="false" isInGroup="6">
+          <controlProperties>
+            <icon>PagesIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="68" controlTypeID="__group__" x="39" y="108" w="450" h="400" measuredW="450" measuredH="400" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="68">
+          <controlProperties>
+            <close>true</close>
+            <text>JS%20Scratchpad</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="6" y="26" w="434" h="29" measuredW="339" measuredH="29" zOrder="1" locked="false" isInGroup="68">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <selectedIndex>2</selectedIndex>
+            <text>File%2C%20Edit%2C%20Execute%2C%20Environment%2C%20Tools</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="2" y="57" w="448" h="322" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="68">
+          <controlProperties>
+            <text>window.indexedDB%20%3D%20window.moz_indexedDB%3B%0A%20%0A%21function%20%28container%29%20%7B%0A%20%20function%20log%28msg%29%20%7B%20dump%28%22database.js%3A%20%22%20+%20msg%20+%20%22%5Cn%22%29%20%7D%3B%0A%20%20var%20db%3B%0A%20%0A%20%20var%20req%20%3D%20window.indexedDB.open%28%22news%22%2C%20%22news%20messages%22%29%3B%0A%20%20req.onsuccess%20%3D%20function%28event%29%20%7B%0A%20%20%20%20db%20%3D%20event.result%3B%0A%20%20%20%20if%20%28db.version%20%21%3D%20%221%22%29%20%7B%0A%20%20%20%20%20%20var%20req%20%3D%20db.createObjectStore%28%22groups%22%2C%20%22name%22%2C%20false%29%3B%0A%20%20%20%20%20%20req.onsuccess%20%3D%20function%28event%29%20%7B%0A%20%20%20%20%20%20%20%20db.setVersion%28%271%27%29.onsuccess%20%3D%20function%28event%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20log%28%22DB%20%26%20store%20created%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20ready%28%29%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20req.onerror%20%3D%20function%28%29%20%7B%0A%20%20%20%20%20%20%20%20log%28%22Error%20while%20createObjectStore%22%29%3B%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20ready%28%29%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="69" controlTypeID="__group__" x="503" y="108" w="450" h="400" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="69">
+          <controlProperties>
+            <close>true</close>
+            <text>Style%20Sheet%20Editor</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="53" w="450" h="332" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="69">
+          <controlProperties>
+            <text>@media%20all%20and%20%28max-width%3A%20470px%29%20%7B%0A%20%20%23snippets%20%7B%20width%3A%2065%25%20%7D%0A%7D%0A%20%0A@media%20all%20and%20%28min-width%3A%20470px%29%20and%20%28max-width%3A%20850px%29%20%7B%0A%20%20%23snippets%20%7B%20width%3A%2045%25%20%7D%0A%7D%0A%20%0A%23snippets%3Ahover%20%7B%0A%20%20background-color%3A%20rgb%28255%2C255%2C255%29%3B%0A%20%20box-shadow%3A%200%201px%200%20rgba%28255%2C255%2C255%2C.8%29%20inset%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%20-2px%200%20rgba%280%2C0%2C0%2C.1%29%20inset%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%200%2010px%20rgba%28255%2C255%2C255%2C.5%29%20inset%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%200%205px%20rgba%280%2C0%2C0%2C.1%29%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%200%200%201px%20rgba%280%2C0%2C0%2C.1%29%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%202px%204px%20rgba%280%2C0%2C0%2C.2%29%3B%0A%7D%0A%20%0A%23snippets%3Ahover%3Aactive%20%7B%0A%20%20background-color%3A%20rgb%28210%2C210%2C210%29%3B%0A%20%20box-shadow%3A%200%202px%203px%20rgba%280%2C0%2C0%2C.3%29%20inset%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%201px%200%20rgba%28255%2C255%2C255%2C.5%29%3B%0A%7D%0A%20%0A%23defaultSnippet1%2C%0A%23defaultSnippet2%20%7B%0A%20%20display%3A%20table-row%3B%0A%20%20text-align%3A%20start%3B%0A%7D%0A%20%0A%23defaultSnippet1%3A%3Abefore%2C%0A%23defaultSnippet2%3A%3Abefore%20%7B%0A%20%20display%3A%20table-cell%3B%0A%20%20vertical-align%3A%20middle%3B%0A%20%20-moz-padding-end%3A%201em%3B%0A%7D%0A%20%0A%23defaultSnippet1%3A%3Abefore%20%7B%0A%20%20content%3A%20url%28%22chrome%3A//browser/content/aboutHome-snippet1.png%22%29%3B%0A%7D%0A%23defaultSnippet2%3A%3Abefore%20%7B%0A%20%20content%3A%20url%28%22chrome%3A//browser/content/aboutHome-snippet2.png%22%29%3B%0A%7D%0A%20%0A%23sessionRestoreContainer%20%7B%0A%20%20padding-top%3A%201.5%25%3B%0A%20%20text-align%3A%20center%3B%0A%7D%0A%20%0A@media%20all%20and%20%28max-height%3A%20370px%29%20%7B%0A%20%20%23sessionRestoreContainer%20%7B%0A%20%20%20%20position%3A%20relative%3B%0A%20%20%20%20top%3A%20-5px%3B%0A%20%20%20%20padding-top%3A%200%3B%0A%20%20%7D%0A%7D%0A%20%0A%23restorePreviousSession%20%7B%0A%20%20padding%3A%2010px%3B%0A%20%20border%3A%200%3B%0A%20%20border-radius%3A%204px%3B%0A%20%20box-shadow%3A%200%200%200%201px%20rgba%289%2C37%2C59%2C0%29%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%201px%202px%20rgba%289%2C37%2C59%2C0%29%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%200%2010px%20rgba%28255%2C255%2C255%2C0%29%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%200%20-3px%200%20rgba%28180%2C194%2C212%2C0%29%20inset%3B%0A%20%20-moz-transition-property%3A%20background-color%2C%20box-shadow%3B%0A%20%20-moz-transition-duration%3A%200.25s%3B%0A%20%20-moz-transition-timing-function%3A%20ease-out%3B%0A%20%20background%3A%20transparent%3B%0A%20%20color%3A%20rgb%2850%2C50%2C50%29%3B%0A%20%20font-weight%3A%20bold%3B%0A%20%20font-size%3A%201em%3B%0A%20%20cursor%3A%20pointer%3B%0A%7D</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="7" y="28" w="-1" h="-1" measuredW="90" measuredH="54" zOrder="2" locked="false" isInGroup="69">
+          <controlProperties>
+            <text>*%20bar.css%0A%20%20foo.css</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="348" y="27" w="-1" h="-1" measuredW="80" measuredH="72" zOrder="3" locked="false" isInGroup="69">
+          <controlProperties>
+            <state>up</state>
+            <text>export%3A%0A%20%20Copy%20All%0A%20%20Save%20As...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::VCurly" x="1467" y="258" w="180" h="363" measuredW="180" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Persistent%20doorhanger.%0A%20%0ACan%20be%20%22unpin%22%20as%20a%20window.</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::StickyNote" x="1104" y="37" w="503" h="175" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>If%20Scratchpad%20or%20the%20CSS%20Editor%20is%20invoked%20from%20a%20menu%20%28Web%20Dev%20menu%2C%20or%20the%20MoreTools%20menu%20from%20the%20toolbar%29%2C%20these%20tools%20are%20opened%20in%20a%20Window.%20If%20invoked%20from%20the%20toolbar%2C%20they%20are%20open%20in%20a%20doorhanger%2C%20that%20can%20be%20%22transformed%22%20to%20a%20Window.</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::VRule" x="1677" y="243" w="-1" h="441" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::CallOut" x="447" y="83" w="-1" h="-1" measuredW="83" measuredH="40" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Windows</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::CallOut" x="984" y="228" w="-1" h="-1" measuredW="116" measuredH="40" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>or%20doorhanger</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
