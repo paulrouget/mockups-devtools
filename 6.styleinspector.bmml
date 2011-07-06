@@ -218,9 +218,9 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="145" y="661" w="299" h="71" measuredW="277" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="758" y="573" w="233" h="144" measuredW="231" measuredH="45" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Context%20menu%3A%0A%D7%20MDC%20links%20availble%20in%20a%20context%20menu.</text>
+        <text>Context%20menu%3A%0A%D7%20MDC%20link%20%28doc%20and%20examples%29%0A%D7%20W3C%20link%0A%D7%20Edit%20%28when%20it%20will%20be%20editable%29%0A%D7%20Reset%20to%20default</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::StickyNote" x="9" y="95" w="335" h="572" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
@@ -249,7 +249,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::CallOut" x="1189" y="283" w="281" h="137" measuredW="281" measuredH="40" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::CallOut" x="1189" y="283" w="281" h="137" measuredW="281" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <color>13369344</color>
