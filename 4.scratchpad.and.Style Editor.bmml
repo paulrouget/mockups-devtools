@@ -7,7 +7,7 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="33" y="23" w="920" h="-1" measuredW="524" measuredH="62" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="33" y="23" w="920" h="-1" measuredW="523" measuredH="62" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <text>Scratchpad%20%26%20Style%20Editor</text>
@@ -94,7 +94,7 @@
             <text>JS%20Scratchpad</text>
           </controlProperties>
         </control>
-        <control controlID="17" controlTypeID="com.balsamiq.mockups::MenuBar" x="5" y="26" w="352" h="23" measuredW="339" measuredH="29" zOrder="2" locked="false" isInGroup="6">
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::MenuBar" x="5" y="26" w="352" h="23" measuredW="337" measuredH="29" zOrder="2" locked="false" isInGroup="6">
           <controlProperties>
             <borderStyle>none</borderStyle>
             <selectedIndex>2</selectedIndex>
@@ -121,7 +121,7 @@
             <text>JS%20Scratchpad</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="6" y="26" w="434" h="29" measuredW="339" measuredH="29" zOrder="1" locked="false" isInGroup="68">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="6" y="26" w="434" h="29" measuredW="337" measuredH="29" zOrder="1" locked="false" isInGroup="68">
           <controlProperties>
             <borderStyle>none</borderStyle>
             <selectedIndex>2</selectedIndex>
@@ -167,9 +167,9 @@
         <text>Persistent%20doorhanger.%0A%20%0ACan%20be%20%22unpin%22%20as%20a%20window.</text>
       </controlProperties>
     </control>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::StickyNote" x="1104" y="37" w="503" h="175" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::StickyNote" x="984" y="38" w="503" h="175" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>If%20Scratchpad%20or%20the%20CSS%20Editor%20is%20invoked%20from%20a%20menu%20%28Web%20Dev%20menu%2C%20or%20the%20MoreTools%20menu%20from%20the%20toolbar%29%2C%20these%20tools%20are%20opened%20in%20a%20Window.%20If%20invoked%20from%20the%20toolbar%2C%20they%20are%20open%20in%20a%20doorhanger%2C%20that%20can%20be%20%22transformed%22%20to%20a%20Window.</text>
+        <text>If%20Scratchpad%20or%20the%20CSS%20Editor%20is%20invoked%20from%20a%20menu%20%28Web%20Dev%20menu%2C%20or%20the%20MoreTools%20menu%20from%20the%20toolbar%29%2C%20these%20tools%20are%20opened%20in%20a%20Window.%20If%20invoked%20from%20the%20toolbar%2C%20they%20are%20open%20in%20a%20doorhanger%2C%20that%20can%20be%20%22transformed%22%20to%20a%20Window.%0A%20%0AWe%20need%20to%20be%20able%20to%20move%20the%20docshell%20from%20the%20doorhanger%0Ato%20a%20window.</text>
       </controlProperties>
     </control>
     <control controlID="73" controlTypeID="com.balsamiq.mockups::VRule" x="1677" y="243" w="-1" h="441" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>

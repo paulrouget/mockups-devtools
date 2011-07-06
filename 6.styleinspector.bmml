@@ -22,14 +22,14 @@
         </control>
         <control controlID="1" controlTypeID="__group__" x="13" y="33" w="359" h="268" measuredW="359" measuredH="268" zOrder="1" locked="false" isInGroup="25">
           <groupChildrenDescriptors>
-            <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="25" w="359" h="243" measuredW="367" measuredH="268" zOrder="0" locked="false" isInGroup="1">
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="25" w="359" h="243" measuredW="350" measuredH="268" zOrder="0" locked="false" isInGroup="1">
               <controlProperties>
                 <borderStyle>square</borderStyle>
                 <color>16777215</color>
                 <hasHeader>true</hasHeader>
                 <hLines>false</hLines>
                 <selectedIndex>-1</selectedIndex>
-                <text>property%2Cvalue%2Crules%0Acolor%2Crgb%280%5C%2C%200%5C%2C%200%29%20%20%20%20%20%20%20%20%0Afont-family%2Cmonospace%2C%20%5B10%A0rules%5D%0Atext-align%2Cstart%0Afont-size%2C16px%2C%20%5B1%20unmatched%20rule%5D%0Adirection%2Cltr%0Afont-style%2Cnormal%0Aopacity%2C1%0A...</text>
+                <text>property%2Cvalue%2Crules%0Acolor%2Crgb%280%5C%2C%200%5C%2C%200%29%20%20%20%20%20%0Afont-family%2Cmonospace%2C%20%5B10%A0rules%5D%0Atext-align%2Cstart%0Afont-size%2C16px%2C%20%5B1%20unmatched%20rule%5D%0Adirection%2Cltr%0Afont-style%2Cnormal%0Aopacity%2C1%0A...</text>
                 <verticalScrollbar>true</verticalScrollbar>
                 <vLines>true</vLines>
               </controlProperties>
@@ -60,7 +60,7 @@
                 <hasHeader>true</hasHeader>
                 <hLines>false</hLines>
                 <selectedIndex>-1</selectedIndex>
-                <text>property%2Cvalue%2Crules%0Acolor%20%5B%5B%3F%5C%5D%5D%20%2Crgb%280%5C%2C%200%5C%2C%200%29%20%20%20%20%0Afont-family%2Cmonospace%2C%20%5B10%A0rules%5D%0Atext-align%2Cstart%0Afont-size%2C16px%2C%20%5Bone%20unmatched%20rule%5D%0Adirection%2Cltr%0Afont-style%2Cnormal%0Aopacity%2C1%0A...</text>
+                <text>property%2Cvalue%2Crules%0Acolor%2Crgb%280%5C%2C%200%5C%2C%200%29%20%20%20%20%0Afont-family%2Cmonospace%2C%20%5B10%A0rules%5D%0Atext-align%2Cstart%0Afont-size%2C16px%2C%20%5Bone%20unmatched%20rule%5D%0Adirection%2Cltr%0Afont-style%2Cnormal%0Aopacity%2C1%0A...</text>
                 <verticalScrollbar>true</verticalScrollbar>
                 <vLines>true</vLines>
               </controlProperties>
@@ -87,7 +87,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="27" controlTypeID="__group__" x="783" y="69" w="602" h="451" measuredW="602" measuredH="451" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="__group__" x="783" y="69" w="594" h="451" measuredW="594" measuredH="451" zOrder="4" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="389" h="313" measuredW="205" measuredH="100" zOrder="0" locked="false" isInGroup="27">
           <controlProperties>
@@ -103,7 +103,7 @@
                 <hasHeader>true</hasHeader>
                 <hLines>false</hLines>
                 <selectedIndex>-1</selectedIndex>
-                <text>property%2Cvalue%2Crules%0Acolor%20%5B%5B%3F%5C%5D%5D%20%2Crgb%280%5C%2C%200%5C%2C%200%29%20%20%20%20%0Afont-family%2Cmonospace%2C%20%5B10%A0rules%5D%0Atext-align%2Cstart%0Afont-size%2C16px%2C%20%5Bone%20unmatched%20rule%5D%0Adirection%2Cltr%0Afont-style%2Cnormal%0Aopacity%2C1%0A...</text>
+                <text>property%2Cvalue%2Crules%0Acolor%2Crgb%280%5C%2C%200%5C%2C%200%29%20%20%20%20%0Afont-family%2Cmonospace%2C%20%5B10%A0rules%5D%0Atext-align%2Cstart%0Afont-size%2C16px%2C%20%5Bone%20unmatched%20rule%5D%0Adirection%2Cltr%0Afont-style%2Cnormal%0Aopacity%2C1%0A...</text>
                 <verticalScrollbar>true</verticalScrollbar>
                 <vLines>true</vLines>
               </controlProperties>
@@ -211,16 +211,16 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::VCurly" x="422" y="350" w="180" h="88" measuredW="180" measuredH="140" zOrder="3" locked="false" isInGroup="27">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::VCurly" x="414" y="356" w="180" h="88" measuredW="180" measuredH="140" zOrder="3" locked="false" isInGroup="27">
           <controlProperties>
             <text>start%20collapsed</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="591" y="653" w="-1" h="-1" measuredW="192" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::CallOut" x="145" y="661" w="299" h="71" measuredW="277" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>MDC%20link%20%5C%5B%3F%5C%5D%20on%20mouseover</text>
+        <text>Context%20menu%3A%0A%D7%20MDC%20links%20availble%20in%20a%20context%20menu.</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::StickyNote" x="9" y="95" w="335" h="572" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
@@ -240,6 +240,37 @@
         <control controlID="1" controlTypeID="__group__" x="67" y="0" w="18" h="83" measuredW="18" measuredH="83" zOrder="1" locked="false" isInGroup="30">
           <groupChildrenDescriptors>
             <control controlID="0" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="0" w="18" h="83" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <direction>top</direction>
+                <rightArrow>false</rightArrow>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::CallOut" x="1189" y="283" w="281" h="137" measuredW="281" measuredH="40" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>13369344</color>
+        <text>WRONG%21%20Not%20another%20popup%21%0A%20%0AThe%20interface%20could%20slide%20in%20once%0Athe%20%22rules%22%20link%20is%20clicked%2C%20replacing%20the%0Acurrent%20interface.</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Icon" x="435" y="557" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="460" y="576" w="298" h="173" measuredW="298" measuredH="173" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CallOut" x="46" y="90" w="252" h="83" measuredW="647" measuredH="40" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>A%20favorite%20button%20will%20let%20you%20move%20any%20property%20to%20the%20top%20of%20the%20list.%20Only%20visible%20on%20mouseover.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="100" h="97" measuredW="100" measuredH="97" zOrder="1" locked="false" isInGroup="33">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="0" w="100" h="97" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="1">
               <controlProperties>
                 <direction>top</direction>
                 <rightArrow>false</rightArrow>

@@ -124,7 +124,7 @@
               </controlProperties>
             </control>
             <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="920" h="32" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="1"/>
-            <control controlID="3" controlTypeID="com.balsamiq.mockups::TabBar" x="652" y="29" w="268" h="140" measuredW="338" measuredH="100" zOrder="3" locked="false" isInGroup="1">
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::TabBar" x="652" y="29" w="268" h="140" measuredW="335" measuredH="100" zOrder="3" locked="false" isInGroup="1">
               <controlProperties>
                 <selectedIndex>0</selectedIndex>
                 <tabHPosition>center</tabHPosition>
@@ -344,6 +344,13 @@
         <direction>top</direction>
         <rightArrow>false</rightArrow>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::CallOut" x="956" y="635" w="271" h="87" measuredW="716" measuredH="40" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>13369344</color>
+        <text>CSS%20Inspector%2C%20JS%20Inspector%20%26%20CSS%20Doctor%20are%20%22vertical%22%20tools.%20In%20this%20layout%2C%20they%20don%27t%20have%20much%20space.</text>
       </controlProperties>
     </control>
   </controls>
